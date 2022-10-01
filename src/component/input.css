@@ -1,0 +1,11 @@
+.input input :focus {
+  border: 3px solid rgb(113, 179, 255);
+}
+.input input {
+  background-color: white;
+
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  padding-left: 60px;
+  transition: width 0.4s ease-in-out;
+}

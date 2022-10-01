@@ -1,0 +1,25 @@
+body {
+  background-color: var(--fondo);
+
+  min-height: 100vh;
+}
+a {
+  text-decoration: none;
+  color: aliceblue;
+}
+.App {
+  text-align: left;
+  display: block;
+
+  color: rgb(255, 255, 255);
+}
+:root {
+  --rojo: #e50914;
+  --fondo: #141414;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
